@@ -67,4 +67,4 @@ These custom functions were compared with scikit-learn's built-in functions to e
 ## **Author**
 **Ansuman Patnaik**  
   MS in Data Science & Analytics, Yeshiva University  
-  ansu1p89k@gmail.com
+  Email: ansu1p89k@gmail.com
